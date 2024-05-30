@@ -1,0 +1,4 @@
+-> open termux
+-> git clone https://github.com/navanitha331/cbse-math
+-> cd cbse-math
+-> pdflatex main.tex
